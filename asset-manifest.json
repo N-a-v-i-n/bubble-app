@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bubble-app/static/css/main.629d8bcc.css",
-    "main.js": "/bubble-app/static/js/main.9ee189fd.js",
+    "main.css": "/bubble-app/static/css/main.a11bfd17.css",
+    "main.js": "/bubble-app/static/js/main.2c65f564.js",
     "static/js/453.ff4db9fc.chunk.js": "/bubble-app/static/js/453.ff4db9fc.chunk.js",
     "index.html": "/bubble-app/index.html",
-    "main.629d8bcc.css.map": "/bubble-app/static/css/main.629d8bcc.css.map",
-    "main.9ee189fd.js.map": "/bubble-app/static/js/main.9ee189fd.js.map",
+    "main.a11bfd17.css.map": "/bubble-app/static/css/main.a11bfd17.css.map",
+    "main.2c65f564.js.map": "/bubble-app/static/js/main.2c65f564.js.map",
     "453.ff4db9fc.chunk.js.map": "/bubble-app/static/js/453.ff4db9fc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.629d8bcc.css",
-    "static/js/main.9ee189fd.js"
+    "static/css/main.a11bfd17.css",
+    "static/js/main.2c65f564.js"
   ]
 }
